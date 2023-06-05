@@ -1,3 +1,4 @@
+asgiref==3.7.2
 boltons @ file:///croot/boltons_1677628692245/work
 brotlipy==0.7.0
 certifi @ file:///croot/certifi_1683875369620/work/certifi
@@ -11,8 +12,11 @@ contourpy @ file:///opt/conda/conda-bld/contourpy_1663827406301/work
 cryptography @ file:///croot/cryptography_1677533068310/work
 cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
 distlib==0.3.6
+dj-database-url==2.0.0
+Django==4.2.2
 filelock==3.12.0
 fonttools==4.25.0
+gunicorn==20.1.0
 idna @ file:///croot/idna_1666125576474/work
 jsonpatch @ file:///tmp/build/80754af9/jsonpatch_1615747632069/work
 jsonpointer==2.1
@@ -28,6 +32,7 @@ Pillow==9.4.0
 platformdirs==3.5.1
 pluggy @ file:///tmp/build/80754af9/pluggy_1648024709248/work
 ply==3.11
+psycopg2-binary==2.9.6
 pycosat @ file:///croot/pycosat_1666805502580/work
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
 pyOpenSSL @ file:///croot/pyopenssl_1677607685877/work
@@ -41,10 +46,12 @@ ruamel.yaml.clib @ file:///croot/ruamel.yaml.clib_1666302247304/work
 sip @ file:///tmp/abs_44cd77b_pu/croots/recipe/sip_1659012365470/work
 six @ file:///tmp/build/80754af9/six_1644875935023/work
 sklearn==0.0.post5
+sqlparse==0.4.4
 toml @ file:///tmp/build/80754af9/toml_1616166611790/work
 toolz @ file:///croot/toolz_1667464077321/work
 tornado @ file:///opt/conda/conda-bld/tornado_1662061693373/work
 tqdm @ file:///croot/tqdm_1679561862951/work
+typing_extensions==4.6.3
 urllib3 @ file:///croot/urllib3_1680254681959/work
 virtualenv==20.23.0
 zstandard @ file:///croot/zstandard_1677013143055/work
